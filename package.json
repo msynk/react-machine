@@ -1,0 +1,35 @@
+{
+    "name": "react-machine",
+    "version": "0.1.0",
+    "type": "module",
+    "description": "A simple but feature-rich state machine for React.",
+    "main": "dist/index.es.js",
+    "module": "dist/index.es.js",
+    "files": [
+        "dist"
+    ],
+    "scripts": {
+        "dev": "vite",
+        "build": "tsc && vite build",
+        "preview": "vite preview"
+    },
+    "keywords": [
+        "react",
+        "state-machine",
+        "hooks",
+        "typescript"
+    ],
+    "peerDependencies": {
+        "react": ">=18.0.0",
+        "react-dom": ">=18.0.0"
+    },
+    "devDependencies": {
+        "@types/react": "^18.3.2",
+        "@types/react-dom": "^18.3.2",
+        "@vitejs/plugin-react": "^5.1.0",
+        "react": "^18.3.1",
+        "react-dom": "^18.3.1",
+        "typescript": "^5.3.3",
+        "vite": "^5.1.0"
+    }
+}
