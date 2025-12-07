@@ -1,6 +1,6 @@
 # React Machine
 
-A simple but feature-rich **state machine** for React, built as a small open-source project that can evolve into a real-world library.
+A small and simple but feature-rich **state machine** for React, built as a small open-source project that can evolve into a real-world library.
 
 ## Example
 ```tsx
